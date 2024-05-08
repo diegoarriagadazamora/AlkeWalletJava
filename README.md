@@ -24,7 +24,8 @@ En este paquete se definen las siguientes clases e interfaz:
 Este paquete contiene las clases relacionadas con las monedas y sus conversiones:
 
 - `Moneda`: Interfaz que define el comportamiento básico de una moneda.
-- `Euro`, `USD`, `PesoCLP`: Clases que implementan la interfaz `Moneda` y representan diferentes tipos de monedas.
+- `Euro`, `USD`, `PesoCLP`: Clases que implementan la interfaz `Moneda` y representan diferentes tipos de monedas, los valores
+  de Euro y USD fueron calculados el día 30/04/2023, día que se hizo la actividad. 
 
 ### Paquete alkeWallet.WalletApp
 
