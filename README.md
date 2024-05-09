@@ -36,7 +36,7 @@ Este paquete contiene la clase principal de la aplicación:
 ## Diagrama de Clases
 
 Adjunto a un package llamado Diagrama dentro del proyecto
-<a href="https://github.com/diegoarriagadazamora/AlkeWalletJava/blob/main/src/main/java/alkeWallet/Cuentas/diagrama/diagrama.txt)">Diagrama</a>
+<a href="https://github.com/diegoarriagadazamora/AlkeWalletJava/blob/main/src/main/java/alkeWallet/Cuentas/diagrama/)">Diagrama</a>
                     
 # Para inciar la aplicación;
 
